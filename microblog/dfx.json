@@ -8,6 +8,14 @@
       "main": "src/microblog/main.mo",
       "type": "motoko"
     },
+    "microblog3": {
+      "main": "src/microblog/main.mo",
+      "type": "motoko"
+    },
+    "microblog4": {
+      "main": "src/microblog/main.mo",
+      "type": "motoko"
+    },
     "microblog_assets": {
       "dependencies": [
         "microblog"
